@@ -51,8 +51,8 @@ deadline: 15/4/2025
 
 ![Screenshot (29)](https://github.com/user-attachments/assets/accf9d27-a17c-4e19-a6b0-c082ce88b8d4)
    
- - Lúc này ta đã có thể tạo được query truy vấn ra thông tin gồm 4 cột: *họ tên gv, môn dạy, giờ vào lớp, giờ ra* theo yêu cầu của đề bài. Nhưng như ta có thể thấy, thông tin truy vấn ra như vậy là còn khá sơ sài, người khác nhìn vào chưa chắc đã nắm rõ được thông tin.
- - Ta sẽ thay đổi đôi chút bằng cách thêm các cột như __Thứ, Ngày, Số tiết__ vào để giúp thông tin được truy vấn ra rõ ràng hơn.
+ - Lúc này ta đã có thể tạo được query truy vấn ra thông tin gồm 4 cột: *họ tên gv, môn dạy, giờ vào lớp, giờ ra* theo yêu cầu của đề bài. Nhưng như ta có thể thấy, thông tin truy vấn ra như vậy là còn khá chung chung, người khác nhìn vào chưa chắc đã nắm rõ được các thông tin.
+ - Ta sẽ thay đổi đôi chút bằng cách thêm các cột như __Thứ, Ngày, Số tiết__ vào vào viết lệnh sao cho ta có thể truy xuất được cụ thể một giảng viên nhất định bằng việc nhập __id__ của giảng viên đó
 
 ![Screenshot (31)](https://github.com/user-attachments/assets/f5e00627-6c9e-4ed6-9dee-9a00ece4b07a)
    
