@@ -39,7 +39,7 @@ deadline: 15/4/2025
 
 ![Screenshot (24)](https://github.com/user-attachments/assets/fea8ddf1-13d7-4259-b764-5d3959e0263d)
  
- - Các bảng khác làm tương tự, các bảng tạo ra phải đạt chuẩn 3NF. Chuẩn 3NF (*Third Normal Form*) là một cấp độ chuẩn hóa cơ sở dữ liệu nhằm loại bỏ sự dư thừa dữ liệu và đảm bảo tính toàn vẹn.
+ - Các bảng khác làm tương tự, lưu ý các bảng tạo ra phải đạt chuẩn 3NF. Chuẩn 3NF (*Third Normal Form*) là một cấp độ chuẩn hóa cơ sở dữ liệu nhằm loại bỏ sự dư thừa dữ liệu và đảm bảo tính toàn vẹn.
     - Ở Bảng __GiangVien__: Đạt 3NF vì mọi cột đều phụ thuộc vào khóa chính __id__
     - Bảng __MonHoc__: Đạt 3NF vì không có phụ thuộc bắc cầu
     - Bảng __Lop__: Đạt 3NF vì là bảng đơn giản, không dư thừa
