@@ -1,4 +1,5 @@
-# BaiTap_4
+# Hầu Nhật Ninh - K225480106077 - K58KTP.K01
+## BaiTap_4
 Tạo csdl cho hệ thống TKB
 Yêu cầu bài toán:
  - Tạo csdl cho hệ thống TKB (đã nghe giảng, đã xem cách làm)
@@ -20,7 +21,7 @@ Gợi ý:
 
 deadline: 15/4/2025
 
-# Bài Làm
+# Bài Làm 
 ## 1. Tạo csdl cho hệ thống TKB
  - Truy cập vào [TMS.tnut.edu.vn](https://tms.tnut.edu.vn/tkb/lop.html) để lấy dữ liệu, ở đây ta sẽ lấy ví dụ là thời khóa biểu Tuần: 33 (14/04/2025 → 20/04/2025) của lớp K58KTP.K01
 
