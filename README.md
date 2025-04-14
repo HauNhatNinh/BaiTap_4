@@ -31,8 +31,7 @@ deadline: 15/4/2025
 ![image](https://github.com/user-attachments/assets/e5c31d51-8b9e-44b3-abf4-faa3236e8fd7)
 
  - Tạo database có tên là __TKB-K58KTP.K01__, sau đó tiến hành tạo các bảng có tên là __GiangVien, Lop, MonHoc, PhongHoc, TietHoc, LichDay__
- - Các bảng có cột __id__ thì sẽ đặt nó làm khóa chính và thiết lập tự đọng tăng (Identiny) cho nó.   
-
+  
 ![Screenshot (32)](https://github.com/user-attachments/assets/a553d2e8-f78a-41b0-ba21-03f0633cc2af)
  
 ![Screenshot (25)](https://github.com/user-attachments/assets/ba32b8a6-5c19-42be-a0eb-96674cf763fb)
