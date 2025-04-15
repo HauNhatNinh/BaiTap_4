@@ -46,6 +46,9 @@ deadline: 15/4/2025
     - Bảng __TietHoc__: Đạt chuẩn 3NF vì không có cột nào phụ thuộc cột không khóa khác
     - Bảng __LichDay__: Đạt 3NF vì các cột đều mô tả thuộc tính của ca giảng dạy, tất cả phụ thuộc vào cột __id__ ở trong bảng, không có cột nào dư thừa  
  - Sau đó tạo mối liên kết giữa các bảng (FK) và tiến hành nhập dữ liệu từ thời khóa biểu Tuần: 33 (14/04/2025 → 20/04/2025) của lớp K58KTP.K01 và bảng thời gian biểu giảng dạy ở trên cho từng bảng.
+
+![image](https://github.com/user-attachments/assets/51e0fec9-fbf4-4a3d-a26e-fd2eb736a474)
+   
  - Khi hoàn thành các bước trên ta có được sơ đồ sau.
 
 ![Screenshot (29)](https://github.com/user-attachments/assets/accf9d27-a17c-4e19-a6b0-c082ce88b8d4)
