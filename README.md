@@ -23,7 +23,7 @@ deadline: 15/4/2025
 
 # Bài Làm 
 ## 1. Tạo csdl cho hệ thống TKB
- - Truy cập vào [TMS.tnut.edu.vn](https://tms.tnut.edu.vn/tkb/lop.html) để lấy dữ liệu, ở đây ta sẽ lấy ví dụ là thời khóa biểu Tuần: 33 (14/04/2025 → 20/04/2025) của lớp K58KTP.K01
+ - Truy cập vào [TMS.tnut.edu.vn](https://tms.tnut.edu.vn/tkb/lop.html) để lấy dữ liệu, ở đây ta sẽ lấy ví dụ là thời khóa biểu Tuần: 33 (14/04/2025 → 20/04/2025) của lớp K58KTP
 
 ![Screenshot (30)](https://github.com/user-attachments/assets/cbed0435-566d-4380-8185-48869b86b020)
 
